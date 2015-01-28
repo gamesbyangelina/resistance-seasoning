@@ -1,2 +1,3 @@
-# resistance-seasoning
-Sprinkles of random/procedural generation to spice up your Resistance bots. Bon Appétit!
+# PCG Seasoning With @mtrc - Resistance Bots
+
+![Bon Appetit!](http://i.imgur.com/EUTZWNa.png)

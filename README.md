@@ -1,3 +1,11 @@
-# PCG Seasoning With @mtrc - Resistance Bots
+# PCG Seasoning With @mtrc
+# Spicing Up Resistance Bots
 
-![Bon Appetit!](http://i.imgur.com/EUTZWNa.png)
+These are some small, fun Python snippets for spicing up your Twitter bots. I'll add to these as and when I get inspiration (and time!)
+
+# Current Spices
++ Name generation - secret service codenames, historical revolutionaries, random nicknames from corpora.
++ Procedural accents (with thanks to @DragonXVI) - pass in your text, make your bot sound drunk or nervous!
++ Random tics - for flavour, make your bot act nervously in chat.
+
+![Bon Appetit!](http://i.imgur.com/665HUry.png)
